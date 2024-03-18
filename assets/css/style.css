@@ -1,0 +1,176 @@
+
+body {
+
+    background-color: #000000;
+
+
+}
+
+
+
+
+h1 {
+
+    text-align: center;
+    color: #FFFFFF;
+
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: medium;
+font-size: 50px;
+
+
+}
+
+
+
+#Desc {
+
+    text-align: left;
+    color: #FFFFFF;
+    border: 60px solid transparent; /* Esto crea un rectángulo invisible */
+           
+
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: light;
+font-size: 16px;
+
+
+}
+
+
+
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto {
+    order: 1;
+}
+
+.imagen {
+    order: 2;
+    
+}
+
+
+
+
+#Características {
+    background-color: #1E1A13
+
+
+}
+
+
+.features {
+
+
+    text-align: center;
+    color: #FFFFFF;
+
+    background-color:#1E1A13;
+    padding: 20px;
+    margin: 10px;
+    
+
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: medium;
+font-size: 40px;
+
+
+}
+
+
+.icono {
+
+
+    text-align: center;
+    color: #FFFFFF;
+
+    background-color:#1E1A13;
+    padding: 60px;
+    margin: 10px;
+    width: 30%;
+    
+    
+
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: light;
+font-size: 25px;
+
+
+}
+
+
+
+.contenedordos {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+#Galeria {
+    background-color: #000000;
+
+   
+}
+
+
+.contenedortres {
+    display: flex;
+    justify-content: space-between;
+}
+.imageniguana {
+    width: 25%; 
+}
+
+
+
+footer {
+
+
+    text-align: center;
+    color: #FFFFFF;
+
+    background-color:#1E1A13;
+    padding: 20px;
+    margin: 10px;
+    
+
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: light;
+font-size: 20px;
+
+
+}
+
+
+a.Enlace {
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
